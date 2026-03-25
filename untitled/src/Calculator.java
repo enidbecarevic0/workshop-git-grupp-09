@@ -1,3 +1,4 @@
+//Basic math operations utility
 public class Calculator{
     /** Returns the sum of a and b. */
     public static double add(double a, double b) { return a + b; }
