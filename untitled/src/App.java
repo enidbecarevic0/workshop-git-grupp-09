@@ -11,6 +11,7 @@ public class App{
         System.out.println(Calculator.add(a,b));
         if("2".equals(choice)) System.out.println(Calculator.sub(a,b));
         if("3".equals(choice)) System.out.println(Calculator.mul(a, b));
+        if ("4".equals(choice)) System.out.println(Calculator.div(a, b));
     }
 
 }
