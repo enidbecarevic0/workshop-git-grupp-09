@@ -7,7 +7,7 @@ public class App{
 
         System.out.println("1) Add\n2) Subtract\n3) Multiply\n 4) Divide\n 0) Exit program");
         System.out.println("Your Choice: ");
-        String option = new java.util.Scanner(System.in).nextLine();
+        String option = new java.util.Scanner(System.in).nextLine().trim();
         if ("1".equals(choice)) System.out.println("TODO Add");
         System.out.println("A: ");
         double a = Double.parseDouble(new java.util.Scanner(System.in).nextLine());
