@@ -1,6 +1,7 @@
 //Simple console calculator
 public class App{
     static void run(){
+        //Entry point logic
 
 
         System.out.println("1) Add\n2) Subtract\n3) Multiply\n 4) Divide\n 0) Exit");
