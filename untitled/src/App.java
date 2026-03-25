@@ -17,6 +17,7 @@ public class App{
         if ("3".equals(option)) System.out.println(Calculator.mul(a, b));
         if ("4".equals(option) && b == 0) System.out.println("Error: division by zero");
         if ("4".equals(choice) && b != 0) System.out.println(Calculator.div(a, b));
+        else System.out.println("Unknown option");
     }
 public static void main(String[] args) {
         start();
