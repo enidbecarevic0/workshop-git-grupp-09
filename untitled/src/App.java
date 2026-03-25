@@ -7,6 +7,7 @@ public class App{
 
         System.out.println("1) Add\n2) Subtract\n3) Multiply\n 4) Divide\n 0) Exit program");
         System.out.println("Your Choice: ");
+        // note: simple Scanner usage; consider single shared instance/close in real app
         String option = new java.util.Scanner(System.in).nextLine().trim();
         if ("1".equals(choice)) System.out.println("TODO Add");
         System.out.println("A: ");
