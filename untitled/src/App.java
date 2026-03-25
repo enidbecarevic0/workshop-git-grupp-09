@@ -6,7 +6,7 @@ public class App{
         //Entry point logic
 
 
-
+        // menu options; extand as feature grow
         System.out.println("1) Add\n2) Subtract\n3) Multiply\n 4) Divide\n 0) Hejdå");
         System.out.println("Your Choice: ");
         // note: simple Scanner usage; consider single shared instance/close in real app
