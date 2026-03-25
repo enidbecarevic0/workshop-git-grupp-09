@@ -1,6 +1,6 @@
 //Simple console calculator
 public class App{
-    static void run(){
+    static void start(){
         //Entry point logic
 
 
