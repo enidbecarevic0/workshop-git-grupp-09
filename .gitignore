@@ -623,3 +623,5 @@ FodyWeavers.xsd
 
 
 .idea/
+
+*.class
