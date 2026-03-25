@@ -1,6 +1,7 @@
 //Simple console calculator
 public class App{
     static final String ERR_DIV_ZERO = "Error: division by zero";
+    //** Starts interactive console flow. */
     static void start(){
         //Entry point logic
 
