@@ -2,3 +2,5 @@
 Bara för workshopen
 javac App.java && java App (main method will be added later)
 Features: Add, Subtract, Multiply, Divide
+Run tests (simple):
+`java Calculator.java.tests/TestCalculator.java && java tests.TestCalculator`
